@@ -1,3 +1,7 @@
+# Disclaimer
+
+The Code as well as the contents of the README after this Disclaimer is more than 99% AI generated, using the Coursor fork of Visual Studio Code and Claude Sonnet 4 as the underlying LLM.
+
 # Theme Color Editor
 
 A Python GUI application for editing Windows Forms control color themes. This program provides a visual interface to modify color definitions for various UI controls and export the changes as a JSON file.
